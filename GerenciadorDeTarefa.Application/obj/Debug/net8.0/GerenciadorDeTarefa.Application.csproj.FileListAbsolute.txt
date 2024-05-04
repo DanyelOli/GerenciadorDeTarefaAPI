@@ -1,0 +1,16 @@
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\bin\Debug\net8.0\GerenciadorDeTarefa.Application.deps.json
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\bin\Debug\net8.0\GerenciadorDeTarefa.Application.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\bin\Debug\net8.0\GerenciadorDeTarefa.Application.pdb
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\bin\Debug\net8.0\GerenciadorDeTarefa.Communication.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\bin\Debug\net8.0\GerenciadorDeTarefa.Communication.pdb
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.csproj.AssemblyReference.cache
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.AssemblyInfoInputs.cache
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.AssemblyInfo.cs
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.csproj.CoreCompileInputs.cache
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.sourcelink.json
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\Gerencia.70371722.Up2Date
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\refint\GerenciadorDeTarefa.Application.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\GerenciadorDeTarefa.Application.pdb
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Application\obj\Debug\net8.0\ref\GerenciadorDeTarefa.Application.dll

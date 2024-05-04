@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\GerenciadorDeTarefa.Application\GerenciadorDeTarefa.Application.csproj" />
     <ProjectReference Include="..\GerenciadorDeTarefa.Communication\GerenciadorDeTarefa.Communication.csproj" />
   </ItemGroup>

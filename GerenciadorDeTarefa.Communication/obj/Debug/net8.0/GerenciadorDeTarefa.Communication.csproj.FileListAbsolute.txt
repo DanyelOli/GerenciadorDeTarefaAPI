@@ -1,0 +1,12 @@
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\bin\Debug\net8.0\GerenciadorDeTarefa.Communication.deps.json
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\bin\Debug\net8.0\GerenciadorDeTarefa.Communication.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\bin\Debug\net8.0\GerenciadorDeTarefa.Communication.pdb
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.AssemblyInfoInputs.cache
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.AssemblyInfo.cs
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.csproj.CoreCompileInputs.cache
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.sourcelink.json
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\refint\GerenciadorDeTarefa.Communication.dll
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\GerenciadorDeTarefa.Communication.pdb
+D:\workspace\GerenciadorDeTarefaAPI\GerenciadorDeTarefa.Communication\obj\Debug\net8.0\ref\GerenciadorDeTarefa.Communication.dll
