@@ -4,9 +4,9 @@ using GerenciadorDeTarefa.Communication.Responses;
 namespace GerenciadorDeTarefa.Application.UseCases.Tarefa.Register;
 public class ResgisterTarefasUseCase
 {
-    public ResponseRegisterTarefaJson Execute(RequestRegisterTarefaJson request)
+    public ResponseRegisterTarefasJson Execute(RequestTarefaJson request)
     {
-        return new ResponseRegisterTarefaJson
+        return new ResponseRegisterTarefasJson
         {
             Id = request.Id,
             Name = request.Name,

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeTarefa.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7f6c180e01445af2e7c6eecfd9da79a6f5572b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b238e46cd771b93655fa98460350c5f7716a1757")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeTarefa.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeTarefa.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
