@@ -1,4 +1,5 @@
-﻿using GerenciadorDeTarefa.Communication.Request;
+﻿using GerenciadorDeTarefa.Application.UseCases.Tarefa.Register;
+using GerenciadorDeTarefa.Communication.Request;
 using GerenciadorDeTarefa.Communication.Responses;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,6 +13,8 @@ public class GerenciadorController : ControllerBase
     [ProducesResponseType(typeof(ResponseRegisterTarefaJson), StatusCodes.Status201Created)]
     public IActionResult Register([FromBody] RequestRegisterTarefaJson request)
     {
-        return Created();
+        var response = new ResgisterTarefasUseCase().Execute(request);
+
+        return Created(string.Empty, response);
     }
 }
